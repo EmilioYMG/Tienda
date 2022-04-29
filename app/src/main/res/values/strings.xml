@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="nav_menu_inicio">Inicio</string>
+    <string name="nav_menu_buscar">Buscar</string>
+    <string name="nav_menu_comprar">Comprar</string>
+    <string name="nav_menu_inicia">Sesión</string>
+    <string name="string_txtv_seleccionar">Elemento a seleccionar</string>
+    <string name="strMenSalvar">Salvar</string>
+    <string name="strMenCargar">Cargar</string>
+    <string name="strCredenciales">credenciales</string>
+    <string name="strUser">Usuario</string>
+    <string name="strNoUsuarios">No hay usuarios registrados</string>
+    <string name="strPassword">Password</string>
+    <string name="strNoPassword">No Password</string>
+
+    <array name="string_productos">
+        <item>Mochila</item>
+        <item>Laptop</item>
+        <item>Libro</item>
+        <item>Ropa</item>
+        <item>Paracetamol</item>
+    </array>
+</resources>
